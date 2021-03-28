@@ -6,5 +6,6 @@ module.exports = {
   addons: [
     '@storybook/addon-docs',
     '@storybook/addon-essentials',
+    '@storybook/addon-controls'
   ]
 }
